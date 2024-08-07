@@ -19,4 +19,4 @@ El repositorio está organizado para facilitar la navegación y el aprendizaje:
 
    Navega por las diferentes carpetas para descubrir ejercicios y ejemplos que despierten tu curiosidad.
 
-¡Gracias por visitar y explorar mi repositorio de JavaScript! 🌟 Espero que encuentres inspiración y aprendizaje en cada rincón. ¡Diviértete y sigue codificando! 🚀🎓
+¡Gracias por visitar y explorar mi repositorio de JavaScript! 🌟 Espero que encuentres inspiración y aprendizaje en cada rinconcito. ¡Diviértete y sigue codificando! 🚀🎓
